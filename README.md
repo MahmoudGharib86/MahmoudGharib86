@@ -32,7 +32,7 @@ Beyond the ledger, I build practical tools that make financial information clear
 | 📘 **[IFRS & IAS Reference](https://github.com/MahmoudGharib86/ifrs-ias-reference)** | Comprehensive Arabic reference covering 44 IFRS & IAS standards, with worked examples, journal entries, common audit findings and Saudi practice notes | [Open ↗](https://mahmoudgharib86.github.io/ifrs-ias-reference/) |
 | ⚖️ **[Mizan](https://github.com/MahmoudGharib86/mizan)** | Local-first personal finance app with an Arabic identity: multi-currency accounts, reports and optional Google Drive backup | [Open ↗](https://mahmoudgharib86.github.io/mizan/) |
 | 🕌 **[Manasik](https://github.com/MahmoudGharib86/manasik)** | Android app bringing together Quran, prayer times, Qibla, adhkar and shared Khatmas, with an Always On Display verse | [Open ↗](https://mahmoudgharib86.github.io/manasik/) |
-| 📊 **[VAT Compliance Tracker](https://github.com/MahmoudGharib86/Financial-VAT-Compliance-Status)** | Dashboard for tracking VAT filing, financial statements, Zakat and Qawaem submissions across multiple entities | [Open ↗](https://mahmoudgharib86.github.io/Financial-VAT-Compliance-Status/) |
+
 
 ---
 
